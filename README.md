@@ -5,7 +5,6 @@ The files stored in this repository are described below:
 
 - Reserve Data.csv: Each line of this file contains the parameter values of each material in an MMU;
 
-Simulator times:
 The following files represent the input data of the discrete event simulation model:
 
 - Empty_travel_time.csv -> Empty truck´s travel time from mine regions to the discharge points.
