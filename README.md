@@ -1,5 +1,5 @@
 # Resources_Policy_2022
-Supplementary documents
+Supplementary documents:
 
 The files stored in this repository are described below:
 
