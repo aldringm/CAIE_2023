@@ -1,4 +1,4 @@
-# Engineering_Optimization_2023
+# Computers & Industrial Engineering 2023
 Data:
 
 The files stored in this repository are described below:
